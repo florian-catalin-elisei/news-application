@@ -1,0 +1,22 @@
+.App {
+  background-color: #222;
+}
+
+.AppContainer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  border-radius: 10px;
+  margin-bottom: -120px;
+  margin-top: 15px;
+  width: 300px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .logo {
+    margin-bottom: 10px;
+  }
+}

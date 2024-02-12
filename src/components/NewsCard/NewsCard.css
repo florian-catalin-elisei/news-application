@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 10px 0;
+}
+
+.image {
+  height: 250px;
+}
+
+.cardInfo {
+  align-items: center;
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.cardTitle {
+  font-weight: 700 !important;
+  margin: 10px !important;
+}
+
+.cardDescription {
+  color: grey;
+}
+
+.cardFooter {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+}

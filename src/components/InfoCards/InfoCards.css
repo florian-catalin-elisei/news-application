@@ -1,0 +1,37 @@
+.infoCardsContainer {
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+}
+
+.infoCard {
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 15px;
+  width: 90%;
+}
+
+.infoCardInfo {
+  font-weight: 700;
+}
+
+.infoCardTitle {
+  font-weight: 700 !important;
+}
+
+.infoCardText {
+  font-style: italic;
+}
+
+.infoCard:first-child {
+  margin-top: 25px;
+}
+
+.infoCard:last-child {
+  margin-bottom: 25px;
+}
