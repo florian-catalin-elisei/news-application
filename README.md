@@ -4,12 +4,12 @@ This is a React application that uses Alan AI voice commands to fetch and displa
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/news-application.git
+  git clone https://github.com/florian-catalin-elisei/news-application.git
 ```
 
 2. Navigate to the project directory:
